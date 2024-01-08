@@ -1,3 +1,6 @@
+![imagen](https://github.com/SpardaHunter/massive-image/assets/155873668/f73aca7c-b43b-4419-804e-dcffa0980268)
+
+
 What is it for?
 
 with an image, creates a copy of itself with the names of the files contained in a folder
